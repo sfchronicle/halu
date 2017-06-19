@@ -1,0 +1,148 @@
+.food-cluster, .closeup-cluster, .restaurant-cluster {
+	margin-left: 2em;
+	margin-right: 2em;
+	.flex-wrap(wrap);
+	.display-flex;
+    .justify-content(center);
+
+}
+
+.photo-caption {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 18px;
+    color: @dark-gray;
+}
+
+.single-photo-caption {
+    margin-left: 13%;
+    font-size: 18px;
+    color: @dark-gray;
+}
+
+
+.headline {
+    text-align: center;
+}
+
+.byline {
+    font-style: normal;
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 1em;
+    color: black;
+}
+
+.four {
+    .flex(0 0 25%);
+    @media @tablet {
+        .flex(0 0 50%);
+    }
+}
+
+.three {
+    .flex(0 0 33%);
+    @media @mobile {
+        .flex(0 0 100%);
+    }
+}
+
+.inline-img {
+    
+    @media @mobile {
+        .flex(0 0 100%);
+    }
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    margin: 0em auto;
+
+    img {
+    width: 100%;
+    margin-bottom: .5em;
+}
+}
+
+
+
+
+.horiz-photo {
+margin-top: 2em;
+    max-width: 1000px;
+}
+
+
+
+
+h1.headline {
+    font-family: Pierpont-Bold, serif;
+    font-size: 150%;
+    line-height: 100%;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.text {
+    margin-top: 2em;
+
+    #end {
+    font-style: italic;
+    font-size: 18px;
+    }
+
+
+}
+
+.credit-jgu {
+  
+}
+
+
+.article-byline {
+    font-family: Pierpont-Bold, serif;
+	font-size: 14px;
+	padding: 0px;
+	margin-bottom: .5em;
+}
+
+.blurb {
+	font-family: Georgia, serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    padding: 0px;
+    margin-bottom: -0.25em;
+}
+
+a {
+	color: black;
+}
+
+a.author-link {
+	color: black;
+	&:hover {
+    color: darken(@gray-blue,10%);
+  }
+}
+
+a.continue{
+	font-family: Georgia Bold Italic, serif;
+    font-weight: normal;
+    font-style: italic;
+    color: #222;
+    font-size: 14px;
+    line-height: 16px;
+    &:hover {
+    color: darken(@gray-blue,10%);
+  }
+}
+
+a.credits {
+    color: @gray-blue;
+    &:hover {
+    color: lighten(@gray-blue,20%);
+  }
+}

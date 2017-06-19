@@ -1,0 +1,72 @@
+[
+  {
+    "ID": 0,
+    "Slug": "health0611_main",
+    "Author": "Catherine Ho",
+    "AuthorLink": "/author/catherine-ho",
+    "Headline": "Why doctors' offices could become obsolete",
+    "Deck": "Technological advancements are ushering in a new era of health care, eroding the long-held model of hospitals and doctors’ offices as the physical center of the health system.",
+    "Image": 13009782,
+    "Link": "http://www.sfchronicle.com/business/article/Why-doctors-offices-could-become-obsolete-11206982.php"
+  },
+  {
+    "ID": 1,
+    "Slug": "health0611_ingest",
+    "Author": "Trisha Thadani",
+    "AuthorLink": "/author/trisha-thadani",
+    "Headline": "Did you take your pill? Ingestible sensors can tell",
+    "Deck": "Some experts say “smart pills” can help solve one of the biggest problems plaguing the health care industry: patients simply not taking their medication as prescribed.",
+    "Image": 12975518,
+    "Link": "http://www.sfchronicle.com/business/article/Did-you-take-your-pill-Ingestible-sensors-can-11206980.php"
+  },
+  {
+    "ID": 2,
+    "Slug": "health0611_brain",
+    "Author": "Catherine Ho",
+    "AuthorLink": "/author/catherine-ho",
+    "Headline": "Shedding light on how antidepressants affect the brain",
+    "Deck": "A Mark Zuckerberg-backed project could help revolutionize the way drugs for depression, schizophrenia and other psychiatric disorders are studied and developed.",
+    "Image": 12997400,
+    "Link": "http://www.sfchronicle.com/business/article/Shedding-light-on-how-antidepressants-affect-the-11206974.php"
+  },
+  {
+    "ID": 3,
+    "Slug": "health0611_hearing",
+    "Author": "Benny Evangelista",
+    "AuthorLink": "/author/benny-evangelista",
+    "Headline": "How Apple AirPods could make future hearing aids cool",
+    "Deck": "The emergence of headphones and earbuds as stylish, multifunctional accessories of modern life is helping usher in new possibilities for once-stigmatized ear gear.",
+    "Image": 13037338,
+    "Link": "http://www.sfchronicle.com/business/article/How-Apple-AirPods-could-make-future-hearing-aids-11206977.php"
+  },
+  {
+    "ID": 4,
+    "Slug": "health0611_records",
+    "Author": "Dominic Fracassa",
+    "AuthorLink": "/author/dominic-fracassa",
+    "Headline": "Why doctors hate electronic records — and what could change that",
+    "Deck": "The health-care industrial complex has spent billions of dollars and untold amounts of time on electronic medical records. The payoff isn’t here yet.",
+    "Image": 12965850,
+    "Link": "http://www.sfchronicle.com/business/article/Why-doctors-hate-electronic-records-and-what-11206986.php"
+  },
+  {
+    "ID": 5,
+    "Slug": "health0611_disease",
+    "Author": "Catherine Ho",
+    "AuthorLink": "/author/catherine-ho",
+    "Headline": "Are you sick? Just look at your wrist",
+    "Deck": "Could a global epidemic be prevented by a sweat-tracking wristband? It’s possible — one day.",
+    "Image": 13058013,
+    "Link": "http://www.sfchronicle.com/business/article/Are-you-sick-Just-look-at-your-wrist-11206975.php"
+  },
+  {
+    "ID": 6,
+    "Slug": "health0611_tricorder",
+    "Author": "Benny Evangelista",
+    "AuthorLink": "/author/benny-evangelista",
+    "Headline": "‘Star Trek’ tricorders are boldly going forward",
+    "Deck": "In 2017, the dream of a compact, all-in-one medical scanner is still decades — if not centuries — away.",
+    "Image": 13040578,
+    "Link": "http://www.sfchronicle.com/business/article/Star-Trek-tricorders-are-boldly-going-11206989.php"
+  }
+]
